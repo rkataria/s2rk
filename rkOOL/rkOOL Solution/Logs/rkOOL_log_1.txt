@@ -1,0 +1,24 @@
+2012-11-25 16:04:09 [com.wakanda-software.rkOOL] INFO - Opening the solution
+2012-11-25 16:04:09 [com.wakanda-software.rkOOL] INFO - Opening the users and groups directory
+2012-11-25 16:04:09 [com.wakanda-software.rkOOL] INFO - Users and groups directory opened (duration: 30 ms)
+2012-11-25 16:04:09 [com.wakanda-software.rkOOL.s2rk] INFO - Opening the project
+2012-11-25 16:04:09 [com.wakanda-software.rkOOL.s2rk] INFO - Opening the database
+2012-11-25 16:04:09 [com.wakanda-software.rkOOL.s2rk] INFO - Database opened (duration: 23 ms)
+2012-11-25 16:04:09 [com.wakanda-software.rkOOL.s2rk] INFO - Project opened (duration: 42 ms)
+2012-11-25 16:04:09 [com.wakanda-software.rkOOL.ServerAdmin] INFO - Opening the project
+2012-11-25 16:04:09 [com.wakanda-software.rkOOL.ServerAdmin] INFO - Project opened (duration: 9 ms)
+2012-11-25 16:04:09 [com.wakanda-software.rkOOL] INFO - Solution opened (duration: 167 ms)
+2012-11-25 16:04:09 [com.wakanda-software.rkOOL] INFO - Starting the solution
+2012-11-25 16:04:09 [com.wakanda-software.rkOOL.s2rk] INFO - Starting the project
+2012-11-25 16:04:09 [com.wakanda-software.rkOOL.s2rk] INFO - Starting the HTTP server
+2012-11-25 16:04:10 [com.wakanda-software.rkOOL.s2rk] INFO - HTTP server started (duration: 47 ms)
+2012-11-25 16:04:10 [com.wakanda-software.rkOOL.s2rk] INFO - Project started (duration: 103 ms)
+2012-11-25 16:04:10 [com.wakanda-software.rkOOL.ServerAdmin] INFO - Starting the project
+2012-11-25 16:04:10 [com.wakanda-software.rkOOL.ServerAdmin] INFO - Starting the HTTP server
+2012-11-25 16:04:10 [com.wakanda-software.rkOOL.ServerAdmin] INFO - HTTP server started (duration: 60 ms)
+2012-11-25 16:04:10 [com.wakanda-software.rkOOL.ServerAdmin] INFO - Project started (duration: 130 ms)
+2012-11-25 16:04:10 [com.wakanda-software.rkOOL.s2rk] INFO - Executing the bootstrap(s)
+2012-11-25 16:04:10 [com.wakanda-software.rkOOL.s2rk] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-11-25 16:04:10 [com.wakanda-software.rkOOL.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-11-25 16:04:10 [com.wakanda-software.rkOOL.ServerAdmin] INFO - Bootstrap(s) executed (duration: 16 ms)
+2012-11-25 16:04:10 [com.wakanda-software.rkOOL] INFO - Solution started (duration: 251 ms)
